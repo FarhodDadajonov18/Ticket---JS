@@ -1,0 +1,18 @@
+
+.hero__inner{
+  margin: 0 auto;
+  text-align: center;
+  
+}
+h1{
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+
+.output{
+  font-size: 20px;
+  padding: 10px;
+  color: white;
+  font-weight: bold;
+  border-radius: 10px;
+}
